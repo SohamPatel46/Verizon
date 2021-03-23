@@ -1,0 +1,2 @@
+# Verizon
+mobile shopping website
